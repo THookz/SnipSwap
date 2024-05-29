@@ -1,0 +1,2 @@
+# SnipSwap
+ SnipSwap is a revolutionary e-commerce platform with decentralized house platform generated arts auctions and an nft-marketplace which blends controversial fashion with unspoken trends. Whimzy®, SnipSwaps merchandiser and retailer, is the first marketplace with built in staking and smart contract enabled fashion along with other phygital goodies, which, when acquired, ALSO generate points that can be traded in for money, prizes, voting share, equity, staking rewards and more.
