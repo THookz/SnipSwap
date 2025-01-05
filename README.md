@@ -4,4 +4,5 @@ SnipSwap is a next-generation decentralized exchange (DEX) designed to provide s
 Mission:
 Our mission is to empower users with a decentralized platform that prioritizes privacy, security, and interoperability. By integrating cutting-edge privacy technologies and cross-chain capabilities, SnipSwap aims to become the go-to DEX for private, trustless token swaps.
 
-
+Vision: 
+SnipSwap is committed to redefining decentralized trading by prioritizing privacy, security, and interoperability. We invite users to join us on this journey and experience the future of private DeFi
