@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SnipSwap - Private Token Swaps</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="logo">
+                <span class="purple">Snip</span>Swap
+            </div>
+            <div class="nav-links">
+                <a href="#features">Features</a>
+                <a href="#docs">Docs</a>
+                <a href="https://github.com/THookz/SnipSwap" target="_blank">GitHub</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1>Private Cross-Chain Swaps</h1>
+                <p>Swap tokens securely using zero-knowledge proofs on Secret Network</p>
+                <div class="cta-buttons">
+                    <button class="btn-primary" onclick="connectWallet()">Launch App</button>
+                    <button class="btn-outline" onclick="scrollToSection('features')">Learn More</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="features">
+        <div class="container">
+            <h2>Why Choose SnipSwap?</h2>
+            <div class="feature-grid">
+                <!-- Feature Card 1 -->
+                <div class="feature-card">
+                    <div class="feature-icon">🛡️</div>
+                    <h3>Military-Grade Privacy</h3>
+                    <p>All swaps use zk-SNARKs to hide transaction details</p>
+                </div>
+                
+                <!-- Feature Card 2 -->
+                <div class="feature-card">
+                    <div class="feature-icon">⚡</div>
+                    <h3>Instant Settlement</h3>
+                    <p>Average swap time under 2 seconds</p>
+                </div>
+                
+                <!-- Feature Card 3 -->
+                <div class="feature-card">
+                    <div class="feature-icon">💸</div>
+                    <h3>Low Fees</h3>
+                    <p>0.1% protocol fee with volume discounts</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Swap Interface (We'll Add Later) -->
+    
+    <script src="app.js"></script>
+</body>
+</html>
